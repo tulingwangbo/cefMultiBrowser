@@ -1,0 +1,21 @@
+sqlite3
+version: 3.7.13
+
+
+Readme
+1. 包含工程：
+（1）sqlite3：sqlite3库，创建工程，自行编译的sqlite3库，可以直接包含使用，对外提供API接口
+		－－ 提供x86和x64的库
+		－－ 提供头文件sqlite3Lib.h，使用该库时，直接包含该头文件即可
+		
+（2）Sqlite3Ex：重新封装的Sqlite3Ex库，封装了C++类以及数据库连接类和数据表访问的基类，支持操作抛出异常，对外提供类使用
+		－－ 提供x86和x64的库
+		－－ 提供头文件Sqlite3ExLib.h，使用该库时，直接包含该头文件即可
+
+（3）SQLite3Demo：Sqlite3Ex库使用的Demo，其中DataLog.h中，展示了一个表的字段定义、数据表结构定义以及数据表访问类的定义
+
+
+（4）XDBSupport：依赖于sqlite3.lib，封装了对sqlite3的常用操作，导出为COM借口
+		-- 提供头文件XDBSupport.h，使用时直接包含该头文件即可。
+
+

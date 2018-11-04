@@ -1,0 +1,3 @@
+Date:20181103
+url:https://github.com/qdtroy/DuiLib_Ultimate
+gitHttp:https://github.com/qdtroy/DuiLib_Ultimate.git

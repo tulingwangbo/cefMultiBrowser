@@ -1,0 +1,59 @@
+﻿  json_writer.cpp
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(159): warning C4996: 'Json::Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(143): note: 参见“Json::Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(163): warning C4996: 'Json::Writer::~Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(145): note: 参见“Json::Writer::~Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(177): warning C4996: 'Json::Writer::write': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(147): note: 参见“Json::Writer::write”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(163): warning C4996: 'Json::FastWriter::document_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(182): note: 参见“Json::FastWriter::document_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(212): warning C4996: 'Json::Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(143): note: 参见“Json::Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::Writer::~Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(145): note: 参见“Json::Writer::~Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(222): warning C4996: 'Json::Writer::write': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(147): note: 参见“Json::Writer::write”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::StyledWriter::childValues_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(240): note: 参见“Json::StyledWriter::childValues_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::StyledWriter::document_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(241): note: 参见“Json::StyledWriter::document_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::StyledWriter::indentString_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(242): note: 参见“Json::StyledWriter::indentString_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(279): warning C4996: 'Json::StyledStreamWriter::childValues_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(306): note: 参见“Json::StyledStreamWriter::childValues_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(279): warning C4996: 'Json::StyledStreamWriter::indentString_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(308): note: 参见“Json::StyledStreamWriter::indentString_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(279): warning C4996: 'Json::StyledStreamWriter::indentation_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(310): note: 参见“Json::StyledStreamWriter::indentation_”的声明
+  json_value.cpp
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(159): warning C4996: 'Json::Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(143): note: 参见“Json::Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(163): warning C4996: 'Json::Writer::~Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(145): note: 参见“Json::Writer::~Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(177): warning C4996: 'Json::Writer::write': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(147): note: 参见“Json::Writer::write”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(163): warning C4996: 'Json::FastWriter::document_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(182): note: 参见“Json::FastWriter::document_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(212): warning C4996: 'Json::Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(143): note: 参见“Json::Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::Writer::~Writer': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(145): note: 参见“Json::Writer::~Writer”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(222): warning C4996: 'Json::Writer::write': Use StreamWriter instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(147): note: 参见“Json::Writer::write”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::StyledWriter::childValues_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(240): note: 参见“Json::StyledWriter::childValues_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::StyledWriter::document_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(241): note: 参见“Json::StyledWriter::document_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(215): warning C4996: 'Json::StyledWriter::indentString_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(242): note: 参见“Json::StyledWriter::indentString_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(279): warning C4996: 'Json::StyledStreamWriter::childValues_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(306): note: 参见“Json::StyledStreamWriter::childValues_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(279): warning C4996: 'Json::StyledStreamWriter::indentString_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(308): note: 参见“Json::StyledStreamWriter::indentString_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(279): warning C4996: 'Json::StyledStreamWriter::indentation_': Use StreamWriterBuilder instead
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\include\json\writer.h(310): note: 参见“Json::StyledStreamWriter::indentation_”的声明
+f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\src\lib_json\json_value.cpp(1203): warning C4996: 'Json::Value::removeMember':
+  f:\duilib\im-client2013\3rd\jsoncpp-1.8.3\src\lib_json\json_value.cpp(1190): note: 参见“Json::Value::removeMember”的声明
+  json_reader.cpp
+  正在生成代码...
+  lib_json.vcxproj -> F:\duilib\im-client2013\3rd\jsoncpp-1.8.3\makefiles\msvc2010\Debug\lib_json.lib
