@@ -1,16 +1,16 @@
 #pragma once
 
+#include "CefUIWrapper.h"
 #include "CefHandlerBack.h"
 #include "include/base/cef_lock.h"
 #include "V8ExtensionHandler.h"
 
 #include <set>
-#include <set>
 using namespace std;
 
 namespace ns_CefUI {
 
-	class CBrowserClient :
+	class CEFUIWRAPPER_API CBrowserClient :
 		public CefClient, 
 		public COtherHandleSlot
 	{

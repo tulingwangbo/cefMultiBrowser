@@ -5,6 +5,7 @@
 #include "CefUIWrapper.h"
 
 #include "CefHandlerBack.h"
+#include "BrowserClient.h"
 #include "UICefBrowser.h"
 
 
